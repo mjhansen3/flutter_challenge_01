@@ -2,7 +2,13 @@
 
 A Flutter project based on a minimalist log in sign up UI design by https:&#x2F;&#x2F;dribbble.com&#x2F;Pegakit
 
-## Getting Started
+Matthew Hansen  
+github.com/mjhansen3
+
+
+![Log in screen](https://github.com/mjhansen3/flutter_challenge_01/screenshots/login.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Sign up screen](https://github.com/mjhansen3/flutter_challenge_01/screenshots/signup.png)
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
