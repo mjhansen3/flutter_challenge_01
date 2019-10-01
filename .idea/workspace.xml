@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a377399-d38c-4ca5-b291-f683056f9662" name="Default Changelist" comment="" />
+    <list default="true" id="3a377399-d38c-4ca5-b291-f683056f9662" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="223" selection-start-line="7" selection-start-column="223" selection-end-line="7" selection-end-column="223" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="331" selection-start-line="8" selection-start-column="331" selection-end-line="8" selection-end-column="331" />
               </first_editor>
               <second_editor />
             </state>
@@ -85,7 +87,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569945632514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569945733984" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -128,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569942578097</updated>
-      <workItem from="1569942580836" duration="2609000" />
+      <workItem from="1569942580836" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2609000" />
+    <option name="totallyTimeSpent" value="2931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -218,8 +220,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="223" selection-start-line="7" selection-start-column="223" selection-end-line="7" selection-end-column="223" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="331" selection-start-line="8" selection-start-column="331" selection-end-line="8" selection-end-column="331" />
           </first_editor>
           <second_editor />
         </state>
