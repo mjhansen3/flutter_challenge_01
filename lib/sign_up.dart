@@ -1,3 +1,7 @@
+/// A Flutter project based on a minimalist log in sign up UI design by https://dribbble.com/Pegakit
+/// Matthew Hansen
+/// https://github.com/mjhansen3
+
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
