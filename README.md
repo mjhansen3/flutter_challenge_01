@@ -5,8 +5,12 @@ A Flutter project based on a minimalist log in sign up UI design by https:&#x2F;
 Matthew Hansen  
 github.com/mjhansen3
 
+![Log in screen](https://github.com/mjhansen3/flutter_challenge_01/blob/master/screenshots/login.png=250x) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Sign up screen](https://github.com/mjhansen3/flutter_challenge_01/blob/master/screenshots/signup.png=250x)
 
-![Log in screen](https://github.com/mjhansen3/flutter_challenge_01/blob/master/screenshots/login.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Sign up screen](https://github.com/mjhansen3/flutter_challenge_01/blob/master/screenshots/signup.png)
+## Actual Design
+
+![Design Image](https://github.com/mjhansen3/flutter_challenge_01/blob/master/screenshots/actual_image.png)
+- [Minimalist log in sign up UI design](https://dribbble.com/shots/6973075-Minimalist-log-in-sign-up-UI-design)
 
 ## Getting Started With Flutter
 
