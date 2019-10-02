@@ -1,6 +1,6 @@
 # flutter_challenge_01
 
-A Flutter project based on a minimalist log in sign up UI design by https:&#x2F;&#x2F;dribbble.com&#x2F;Pegakit
+A Flutter project based on a minimalist log in sign up UI design by [Pegakit](https://dribbble.com/Pegakit)
 
 Matthew Hansen  
 github.com/mjhansen3
